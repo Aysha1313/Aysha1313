@@ -79,11 +79,9 @@ I am a passionate **Computer Science Engineering** undergraduate at **Govt. Mode
 
 ## 📊 GitHub Analytics
 
-*(Note: Replace `YOUR_GITHUB_USERNAME` in the URLs below with your actual GitHub username to load your stats!)*
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nord" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aysha1313&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aysha1313&layout=compact&theme=nord" alt="Top Languages" />
 </p>
 
 ---
@@ -91,9 +89,9 @@ I am a passionate **Computer Science Engineering** undergraduate at **Govt. Mode
 ## 📬 Let's Connect!
 
 - 📧 **Email:** [ayshafidhap.mec@gmail.com](mailto:ayshafidhap.mec@gmail.com)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-- 🔗 **Portfolio:** [Your Portfolio Website](https://YOUR_PORTFOLIO_URL)
-- 🌐 **GitHub:** [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- 💼 **LinkedIn:** [Aysha Fidha P](https://linkedin.com/in/aysha-fidha-p-a627b5291)
+- 🔗 **Portfolio:** [aysha-portfolio-taupe.vercel.app](https://aysha-portfolio-taupe.vercel.app)
+- 🌐 **GitHub:** [@Aysha1313](https://github.com/Aysha1313)
 
 ---
 
