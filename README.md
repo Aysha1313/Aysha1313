@@ -45,13 +45,13 @@ I am a passionate **Computer Science Engineering** undergraduate at **Govt. Mode
 
 <p align="center">
   <a href="https://github.com/Aysha1313/SeekRight">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=Aysha1313&repo=SeekRight&theme=tokyonight" alt="SeekRight" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Aysha1313&repo=SeekRight&theme=tokyonight" alt="SeekRight" />
   </a>
   <a href="https://github.com/Aysha1313/Meeting-Intelligence-hub">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=Aysha1313&repo=Meeting-Intelligence-hub&theme=tokyonight" alt="Meeting-Intelligence-hub" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Aysha1313&repo=Meeting-Intelligence-hub&theme=tokyonight" alt="Meeting-Intelligence-hub" />
   </a>
   <a href="https://github.com/Aysha1313/MoodMuse">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=Aysha1313&repo=MoodMuse&theme=tokyonight" alt="MoodMuse" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Aysha1313&repo=MoodMuse&theme=tokyonight" alt="MoodMuse" />
   </a>
 </p>
 
@@ -70,8 +70,8 @@ I am a passionate **Computer Science Engineering** undergraduate at **Govt. Mode
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Aysha1313&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Aysha1313&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aysha1313&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aysha1313&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
