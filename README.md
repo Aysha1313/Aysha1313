@@ -23,34 +23,37 @@ I am a passionate **Computer Science Engineering** undergraduate at **Govt. Mode
 
 ## 🛠️ Tech Stack & Skills
 
-### 💻 Languages & Frameworks
-- **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-- **Backend:** ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
-- **Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-- **Core Skills:** Data Structures & Algorithms (DSA), Problem Solving, Team Collaboration.
-
-### 🧰 Databases & Tools
-- **Databases:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square&logoColor=white)
-- **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔍 **SeekRight** | Full Stack Developer
-> **Technologies:** Python, FastAPI, React.js, OpenAI Whisper, FAISS, FFmpeg, PostgreSQL, yt-dlp, LLM/RAG | *Team Size: 3* (1 Month)
-- Developed a **RAG-based learning system** that processes 100+ YouTube lecture links to extract audio.
-- Generated timestamped transcripts with **95% accuracy** and enabled semantic search to deliver hallucination-free responses.
-
-### 💬 **Meeting-Intelligence-Hub** | Full Stack Developer
-> **Technologies:** Python, FastAPI, React.js, PostgreSQL, ChromaDB, LLM/RAG | *Team Size: 1* (1 Week)
-- Built a smart system that converts raw meeting transcripts (`.txt` / `.vtt`) into structured insights by automatically extracting key decisions and action items.
-- Developed a contextual chatbot allowing users to query transcripts and receive accurate, grounded answers.
-
-### 🎭 **MoodMuse** | Full Stack Developer
-> **Technologies:** Python, React.js, MySQL | *Team Size: 3* (5 days)
-- Built a **mood-aware recommendation engine** that suggests movies and series based on user emotional states extracted from text analysis.
-- Supports multilingual processing across **Malayalam, English, Hindi, Tamil, Telugu, and Kannada**.
+<p align="center">
+  <a href="https://github.com/Aysha1313/SeekRight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aysha1313&repo=SeekRight&theme=tokyonight" alt="SeekRight" />
+  </a>
+  <a href="https://github.com/Aysha1313/Meeting-Intelligence-hub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aysha1313&repo=Meeting-Intelligence-hub&theme=tokyonight" alt="Meeting-Intelligence-hub" />
+  </a>
+  <a href="https://github.com/Aysha1313/MoodMuse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aysha1313&repo=MoodMuse&theme=tokyonight" alt="MoodMuse" />
+  </a>
+</p>
 
 ---
 
@@ -61,6 +64,30 @@ I am a passionate **Computer Science Engineering** undergraduate at **Govt. Mode
 | **Govt. Model Engineering College, Kochi** | B.Tech in Computer Science Engineering (KTU) | **9.46 CGPA** | 2023 - 2027 |
 | **GHSS Pattikkad** | 12th State Board | **97.8%** | 2023 |
 | **Presentation Higher Secondary School** | 10th State Board | **100%** | 2021 |
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aysha1313&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aysha1313&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aysha1313&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aysha1313/Aysha1313/output/github-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Aysha1313/Aysha1313/output/github-snake.svg" />
+  </picture>
+</p>
 
 ---
 
