@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github_profile_banner.png" alt="Aysha Fidha P's Banner" width="100%" />
+  <img src="./profile_banner_v2.png" alt="Aysha Fidha P's Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there! I'm Aysha Fidha P 👋</h1>
@@ -61,28 +61,6 @@ I am a passionate **Computer Science Engineering** undergraduate at **Govt. Mode
 | **Govt. Model Engineering College, Kochi** | B.Tech in Computer Science Engineering (KTU) | **9.46 CGPA** | 2023 - 2027 |
 | **GHSS Pattikkad** | 12th State Board | **97.8%** | 2023 |
 | **Presentation Higher Secondary School** | 10th State Board | **100%** | 2021 |
-
----
-
-## 📜 Courses & Certifications
-- ☕ **Programming using Java** – Infosys
-- 📊 **Data Science for Engineers** – NPTEL (offered in association with **IIT Madras**)
-
----
-
-## 🌟 Leadership & Activities
-- 📢 **Media Head** at NSS MEC 2025
-- 🎮 **Former Member** of GDC MEC (Game Development Club)
-- 🎨 **Hobbies:** Content Creation, Playing Games
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aysha1313&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aysha1313&layout=compact&theme=nord" alt="Top Languages" />
-</p>
 
 ---
 
