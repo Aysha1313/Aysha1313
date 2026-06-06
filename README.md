@@ -17,7 +17,7 @@ I am a passionate **Computer Science Engineering** undergraduate at **Govt. Mode
 - 🎓 **Education:** B.Tech in Computer Science Engineering (KTU) | **9.46 CGPA** (Expected Graduation: 2027)
 - ⚙️ **Key Interests:** Machine Learning, Web Development, Data Analytics, and Game Development.
 - 💬 **Ask me about:** React, FastAPI, RAG architecture, and database management.
-- 📫 **How to reach me:** [ayshafidhap.mec@gmail.com](mailto:ayshafidhap.mec@gmail.com) | +91 9633493200
+- 📫 **How to reach me:** [ayshafidhap.mec@gmail.com](mailto:ayshafidhap.mec@gmail.com)
 
 ---
 
